@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👋 Hey, I'm Ishwar!
 
-16 y/o developer in the making
+16 y/o developer 
 Learning the art of building cool things for the web.
 
 🌱 Currently Learning
