@@ -14,3 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+👋 Hey, I'm Ishwar!
+
+16 y/o developer in the making
+Learning the art of building cool things for the web.
+
+🌱 Currently Learning
+
+Web development fundamentals
+
+JavaScript & responsive design
+
+Improving my HTML/CSS game
+
+Exploring Linux & the command line
+
+
+💻 Skills & Tools
+
+HTML – Comfortable building clean page structures
+
+CSS – Styling, layouts, animations (still leveling up!)
+
+Linux (basics) – File system, basic commands, package managers
+
+VS Code, Git, GitHub
+
+
+🚀 Goals
+
+Get good at front-end development
+
+Build real projects & contribute to open-source
+
+Learn a JavaScript framework (maybe React or Svelte)
+
+
+📫 Connect With Me
+
+Feel free to check out my repos, drop a star ⭐, or say hi!
+
+
+---
