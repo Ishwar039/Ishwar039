@@ -56,6 +56,8 @@ Learn a JavaScript framework (maybe React or Svelte)
 
 📫 Connect With Me
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ishwar039)
+
 Feel free to check out my repos, drop a star ⭐, or say hi!
 
 
