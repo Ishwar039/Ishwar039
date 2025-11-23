@@ -30,10 +30,7 @@ Exploring Linux & the command line
 
 💻 Skills & Tools
 
-HTML
-CSS 
-Linux (basics) 
-VS Code, Git, GitHub
+HTML, CSS, Linux (basics), VS Code, Git, GitHub
 
 🚀 Goals
 
